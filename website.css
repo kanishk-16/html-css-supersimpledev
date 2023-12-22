@@ -1,0 +1,61 @@
+
+  p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .ruppee-symbol{
+    font-size: 15px;
+    font-weight: lighter;
+  }
+  .price{
+    word-spacing: -5px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: 0.5px;
+  }
+  .availability-status{
+    margin-left: 5px;
+    word-spacing: -1px;
+    color: green;
+    
+  }
+  .price-and-availability-status{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .Back-to-amazon{
+    color: rgb(0,113,133);
+  }
+  .Back-to-amazon:hover{
+    opacity: 0.5;
+  }
+  .free-delivery{
+    color: rgb(253, 42, 42);
+  }
+  .Add-to-cart{
+    height: 30px;
+    width: 100px;
+    background-color:rgb(255, 216, 20);
+    color: black;
+    border:none;
+    border-radius:10px;
+    margin-right: 9px;
+    cursor: pointer;
+  }
+  .Add-to-cart:hover{
+    background-color: rgb(237, 200, 19);
+  }
+  .Buy-Now:hover{
+    background-color: rgb(236, 152, 26);
+  }
+  .Buy-Now{
+    height: 30px;
+    width: 100px;
+    background-color:rgb(255, 164, 28);
+    color: rgb(0, 0, 0);
+    border:none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
