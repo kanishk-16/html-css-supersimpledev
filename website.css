@@ -58,4 +58,8 @@
     border-radius: 10px;
     cursor: pointer;
   }
-  
+  img{
+    width: 150px;
+    float: left;
+    margin-right: 10px;
+  }
