@@ -32,6 +32,8 @@
   }
   .free-delivery{
     color: rgb(253, 42, 42);
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
   .Add-to-cart{
     height: 30px;
@@ -39,7 +41,7 @@
     background-color:rgb(255, 216, 20);
     color: black;
     border:none;
-    border-radius:10px;
+    border-radius:15px;
     margin-right: 9px;
     cursor: pointer;
   }
@@ -55,7 +57,12 @@
     background-color:rgb(255, 164, 28);
     color: rgb(0, 0, 0);
     border:none;
-    border-radius: 10px;
+    border-radius: 15px;
     cursor: pointer;
   }
-  
+  img{
+    width: 150px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 75px;
+  }
