@@ -34,9 +34,10 @@ p {
     color: white;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-bottom: 50px;
 }
 .link:hover{
     cursor: pointer;
     text-decoration: underline;
-
+    font-weight: bold;
 }
